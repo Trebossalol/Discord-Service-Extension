@@ -24,5 +24,6 @@ The following command will add the notification.js plugin into your discord
 
 
 ## Terms of Service
-I would like to note, that this third party app is against the Discord ToS, by using this your on your own warranty!
+I would like to note, that this third party app is against the Discord ToS, usage on your own.
+Every changes made to the application, or written in the plugins are your property.
                   
