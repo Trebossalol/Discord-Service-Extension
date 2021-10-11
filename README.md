@@ -23,5 +23,6 @@ The following command will add the notification.js plugin into your discord
 `--unload`        This option will unload all loaded plugins
 
 
-> I would like to note, that this third party app is against the Discord ToS, by using this your on your own warranty!
+## Terms of Service
+I would like to note, that this third party app is against the Discord ToS, by using this your on your own warranty!
                   
