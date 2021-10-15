@@ -5,7 +5,7 @@ The following command will add the notification.js plugin into your discord
 `app.exe --targets=./plugins/notification.js@appBadge --build --load`
 
 ## Flags
-`--app-version`   Specifies the Discord App version, currently it's `1.0.9003`(default value), specify it if discord gets updates.
+`--app-version`   Specifies the Discord App version, currently it's `1.0.9003` (default value), specify it if discord gets updates.
 
 `--targets`       Specifies the paths to plugins, these must me relative or absolute filepaths with file-endings (eg. `my-plugin.js`).
                   It can include a location, where it should be injected, currently there are only 2 options available (`mainScreen`, `appBadge`, 
