@@ -1,2 +1,2 @@
 cd ..
-dse.exe --targets=./plugins/notification.js@appBadge --build --load --tos-read
+dse.exe --targets=plugins/notification.js@appBadge --build --load --tos-read
